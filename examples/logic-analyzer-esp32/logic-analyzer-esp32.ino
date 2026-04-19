@@ -11,8 +11,8 @@
 #endif
 
 #include "Arduino.h"
-#include "logic_analyzer.h"
-#include "esp_int_wdt.h"
+#include "../../src/logic_analyzer.h"
+#include "../../src/esp_int_wdt.h"
 
 
 using namespace logic_analyzer;  
